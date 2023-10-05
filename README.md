@@ -29,9 +29,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository to your local machine using Git:
    git clone https://github.com/shivamv003/Audio_Aura-musicplayer.git
-2. Navigate to the project directory:
-   cd audio-aura
-3. Open the `musicplayer.html` file in your preferred web browser or code editor to start using Audio Aura.
+2. Open the `musicplayer.html` file in your preferred web browser or code editor to start using Audio Aura.
 
 
 ## Features
